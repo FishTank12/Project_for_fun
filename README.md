@@ -1,4 +1,4 @@
-Projects for Fun
+## Projects for Fun
 
 This repository contains a collection of projects made purely for fun and to validate my understanding of various programming courses I've taken, as well as interesting projects I encounter. Each project is grouped and labeled to allow for better organization and easier exploration of the ideas.
 
